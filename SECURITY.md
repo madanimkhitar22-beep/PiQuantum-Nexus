@@ -11,7 +11,8 @@ The current stable release of **PiQuantum Nexus** is supported with continuous u
 ## Reporting a Vulnerability
 If you discover a security issue, please report it responsibly through the PiTrust Secure Disclosure System.
 
-- **Email:** security@pitrust.io  
+- **Emails:** madanimkhitar22@gmail.com
+             - pitrustprotocol@gmail.com
 - **Response Time:** Within 48 hours  
 - **PGP Key:** Available on request  
 
