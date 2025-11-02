@@ -95,7 +95,7 @@ To build the **first quantum-secure intelligence layer** within the Pi Network �
 
 ## 📎 Links
 
-- 🌐 **Live App:** [https://appquantumnexus5411.pinet.com](https://appquantumnexus5411.pinet.com)  
+- 🌐 **Live App:** [https://appquantumnexus5411.pinet.com](https://apppiquantumnexu0794.pinet.com)
 - 💾 **Repository:** [https://github.com/madanimkhitar22-beep/PiQuantum-Nexus](https://github.com/madanimkhitar22-beep/PiQuantum-Nexus)  
 - 🧱 **Part of:** [PiTrust Infrastructure Protocol](https://apppitrustcddfc8244.pinet.com)  
 
