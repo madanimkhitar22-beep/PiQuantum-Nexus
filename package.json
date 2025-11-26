@@ -1,0 +1,55 @@
+{
+  "name": "piquantum-nexus",
+  "version": "0.1.0",
+  "description": "Quantum-secure decentralized intelligence layer for the Pi Network",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npm run build:backend && npm run build:frontend",
+    "build:backend": "tsc",
+    "build:frontend": "webpack --mode production",
+    "dev": "npm run dev:backend & npm run dev:frontend",
+    "dev:backend": "ts-node src/backend/server.ts",
+    "dev:frontend": "webpack serve --mode development",
+    "test": "jest",
+    "lint": "eslint src/**/*.ts",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "quantum",
+    "security",
+    "pi-network",
+    "decentralized",
+    "ai",
+    "blockchain",
+    "post-quantum"
+  ],
+  "author": "PiQuantum-Nexus Team",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "crypto-js": "^4.2.0",
+    "ethers": "^6.10.0",
+    "express": "^4.18.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "web3": "^1.10.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/jest": "^29.5.0",
+    "@types/node": "^20.10.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@typescript-eslint/eslint-plugin": "^6.13.0",
+    "@typescript-eslint/parser": "^6.13.0",
+    "eslint": "^8.55.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.0",
+    "ts-loader": "^9.5.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.3.0",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.0",
+    "webpack-dev-server": "^4.15.0"
+  }
+}
