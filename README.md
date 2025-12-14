@@ -13,6 +13,14 @@
 
 ---
 
+## 👤 **Verified Identity**
+
+[![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0009-6663-902X)  
+**المدني المخيتار (El Mkhitar El Madani)** — [ORCID Profile](https://orcid.org/0009-0009-6663-902X)  
+**🌟 مؤسس الفلسفة المخيتارية** | **🧠 باحث وعي رقمي** | **🚀 Pi Network Architect**
+
+[*الفلسفة المخيتارية*](https://github.com/madanimkhitar22-beep/Mekhitarian-Philosophy-)
+---
 ## 🔐 Clarifying Quantum Terminology
 
 PiQuantum Nexus is **quantum-secure** by design, not by hardware.  
