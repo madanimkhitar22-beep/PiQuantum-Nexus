@@ -1,4 +1,4 @@
-# ⚛️ PiQuantum Nexus (Testnet Simulation)
+# ⚛️ PiQuantum Nexus (Testnet Simulation). 
 
 ![Quantum Security Verified](https://img.shields.io/badge/Quantum%20Security-Verified-brightgreen)
 ![Mainnet Readiness](https://img.shields.io/badge/Mainnet%20Readiness-100%2F100-blue)
